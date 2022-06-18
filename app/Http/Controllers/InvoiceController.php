@@ -24,7 +24,7 @@ class InvoiceController extends Controller
      */
     public function create()
     {
-        //
+        return view('frontend.edit');
     }
 
     /**
@@ -46,7 +46,7 @@ class InvoiceController extends Controller
      */
     public function show($id)
     {
-        //
+        return view('frontend.show');
     }
 
     /**
@@ -57,7 +57,7 @@ class InvoiceController extends Controller
      */
     public function edit($id)
     {
-        //
+        return view('frontend.edit');
     }
 
     /**

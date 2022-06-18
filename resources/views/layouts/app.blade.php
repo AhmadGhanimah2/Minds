@@ -40,11 +40,9 @@
 
                 <!-- Right Side Of Navbar -->
                 <ul class="navbar-nav ml-auto">
-
                     <li class="nav-item px-2">
                         <a class="btn btn-primary " href="#">ع</a>
                     </li>
-
                     <li class="nav-item">
                         <a class="btn btn-secondary" href="#">E</a>
                     </li>
